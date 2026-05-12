@@ -1,1 +1,4 @@
-![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+<img width="333" height="443" alt="WechatIMG2073" src="https://github.com/user-attachments/assets/bb6f4cc0-2630-410b-8056-8e67030776d5" />
+<img width="1449" height="2048" alt="WechatIMG2074" src="https://github.com/user-attachments/assets/1002f4cc-71a0-4b54-b841-5b2b96d7a748" />
+Technique: Ripple Diffusion
+I am inspired by ripple diffusion, where circular waves expand outward from multiple points and overlap to form complex patterns. I am particularly interested in how simple geometric rules can generate organic and dynamic visuals. In my project, I plan to use expanding circles and layered transparency to simulate water ripple interactions. This technique is beneficial because it combines clarity and complexity, making it suitable for interactive and generative design while maintaining strong visual rhythm and motion.
